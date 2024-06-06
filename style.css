@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@100..800&display=swap');
+
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color: #003e47
+}
+
+.line {
+    height: 6px;
+    background-color: #002227;
+    width: 70px;
+    margin: 80px auto;
+}
+
+#apps {
+    background-color: rgb(172, 216, 255);
+}
+
+#games {
+    background-color: rgb(132, 241, 255);
+}
+
+#chatbot {
+    background-color: rgb(118, 193, 255);
+}
+
+h1 {
+    font-family: "Anek Devanagari";
+    font-size:35px;
+}
+section{
+    padding-bottom: 10%;
+}
